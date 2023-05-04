@@ -215,7 +215,7 @@
         "experience": "35 years",
         "num_recipes": 120,
         "likes": 45000,
-        "image": "ihttps://plus.unsplash.com/premium_photo-1661638199064-3317ee2386bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "image": "https://images.pexels.com/photos/7698235/pexels-photo-7698235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "description": "Daniel Boulud is a French chef and restaurateur who owns several restaurants around the world, including Daniel in New York City, which has been awarded three Michelin stars.",
         "recipes": [
             {
@@ -282,7 +282,7 @@
         "experience": "50 years",
         "num_recipes": 200,
         "likes": 50000,
-        "image": "image_url",
+        "image": "https://images.pexels.com/photos/8629122/pexels-photo-8629122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "description": "Julia Child was an American chef, author, and television personality who introduced French cuisine to the American public through her cookbook 'Mastering the Art of French Cooking' and her TV show 'The French Chef'.",
         "recipes": [
             {
