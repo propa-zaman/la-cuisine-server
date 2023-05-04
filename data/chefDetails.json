@@ -5,12 +5,13 @@
         "experience": "10 years",
         "num_recipes": 50,
         "likes": 30000,
-        "image": "image_url",
-        "description": "lorem20",
+        "image": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg",
+        "description": "Jimmy Dane is a French chef and author who is the chef and co-owner of Le Bernardin, a Michelin-starred seafood restaurant in New York City.",
         "recipes": [
             {
                 "recipe_id": 1,
                 "name": "Boeuf Bourguignon",
+                "image": "https://www.thespruceeats.com/thmb/42urs_LlPL3LSd-m7rjUwHCK1mE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/french-boeuf-bourguignon-recipe-1375523-d9ae2ba0ea394f71bc2576a3a0ea277e.jpg",
                 "ingredients": [
                     "1 kg beef chuck, cut into chunks",
                     "200g bacon, diced",
@@ -30,6 +31,7 @@
             {
                 "recipe_id": 2,
                 "name": "Ratatouille",
+                "image": "https://www.allrecipes.com/thmb/F1rucOY3FQT5Ic0oyxdLoqU_yKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222006-disneys-ratatouille-DDMFS-4x3-36eb15843ab548a79e7aab761dac92e1.jpg",
                 "ingredients": [
                     "2 onions, chopped",
                     "4 garlic cloves, minced",
@@ -50,6 +52,7 @@
             {
                 "recipe_id": 3,
                 "name": "Coq au Vin",
+                "image":"https://www.foodnetwork.com/content/dam/images/food/fullset/2008/2/1/0/IG1005_Coq_Au_Vin_s4x3.jpg",
                 "ingredients": [
                     "1 chicken, cut into pieces",
                     "200g bacon, diced",
@@ -71,15 +74,16 @@
     {
         "id": 2,
         "name": "Jacques Pépin",
-        "experience": "50 years",
+        "experience": "15 years",
         "num_recipes": 150,
         "likes": 60000,
-        "image": "image_url",
+        "image": "https://images.unsplash.com/photo-1559575003-fb4ee38a747d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
         "description": "Jacques Pépin is a French chef, author, and television personality who has written over 30 cookbooks and hosted several television shows.",
         "recipes": [
             {
                 "recipe_id": 1,
                 "name": "French Onion Soup",
+                "image": "https://www.budgetbytes.com/wp-content/uploads/2020/11/French-Onion-Soup-bowl.jpg",
                 "ingredients": [
                     "6 onions, sliced",
                     "2 tbsp butter",
@@ -100,6 +104,7 @@
             {
                 "recipe_id": 2,
                 "name": "Beef Bourguignon",
+                "image": "https://www.thespruceeats.com/thmb/42urs_LlPL3LSd-m7rjUwHCK1mE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/french-boeuf-bourguignon-recipe-1375523-d9ae2ba0ea394f71bc2576a3a0ea277e.jpg",
                 "ingredients": [
                     "2 lb beef chuck, cut into chunks",
                     "6 slices bacon, diced",
@@ -122,6 +127,7 @@
             {
                 "recipe_id": 3,
                 "name": "Crème Brûlée",
+                "image": "https://www.onceuponachef.com/images/2023/02/Creme-brulee-1-1200x814.jpg",
                 "ingredients": [
                     "2 cups heavy cream",
                     "1/2 cup granulated sugar",
@@ -138,10 +144,10 @@
     {
         "id": 3,
         "name": "Eric Ripert",
-        "experience": "30 years",
+        "experience": "20 years",
         "num_recipes": 80,
         "likes": 40000,
-        "image": "image_url",
+        "image": "https://images.pexels.com/photos/6210788/pexels-photo-6210788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "description": "Eric Ripert is a French chef and author who is the chef and co-owner of Le Bernardin, a Michelin-starred seafood restaurant in New York City.",
         "recipes": [
             {
@@ -164,6 +170,7 @@
             {
                 "recipe_id": 2,
                 "name": "Pan-Seared Salmon",
+                "image": "https://www.thespruceeats.com/thmb/WRW_ommm7c9nej5PHOnLxZYcMWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pan-seared-salmon-recipe-5498576-hero-01-ba14de427f064aacb8763704cd5d56bd.jpg",
                 "ingredients": [
                     "4 salmon fillets",
                     "1 tbsp olive oil",
@@ -179,6 +186,7 @@
             {
                 "recipe_id": 3,
                 "name": "Bouillabaisse",
+                "image": "https://www.simplyrecipes.com/thmb/W1zW_ak4lXvYJ669Ig_TyMzExN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Bouillabaisse-LEAD-4-c74e05e003a049c88004c94876ff140e.jpg",
                 "ingredients": [
                     "2 lbs mixed fish (such as snapper, cod, and halibut), cut into chunks",
                     "1/4 cup olive oil",
@@ -207,7 +215,7 @@
         "experience": "35 years",
         "num_recipes": 120,
         "likes": 45000,
-        "image": "image_url",
+        "image": "ihttps://plus.unsplash.com/premium_photo-1661638199064-3317ee2386bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "description": "Daniel Boulud is a French chef and restaurateur who owns several restaurants around the world, including Daniel in New York City, which has been awarded three Michelin stars.",
         "recipes": [
             {
@@ -232,6 +240,7 @@
             {
                 "recipe_id": 2,
                 "name": "Lobster Thermidor",
+                "image": "https://themaplecuttingboard.com/wp-content/uploads/2019/11/Termidor.jpeg",
                 "ingredients": [
                     "4 lobster tails",
                     "1/4 cup butter",
@@ -251,6 +260,7 @@
             {
                 "recipe_id": 3,
                 "name": "Poulet Rôti",
+                "image": "https://i.notrefamille.com/1800x0/smart/2020/11/26/37697-large.jpg",
                 "ingredients": [
                     "1 whole chicken",
                     "1 lemon, quartered",
@@ -278,6 +288,7 @@
             {
                 "recipe_id": 1,
                 "name": "Beef Bourguignon",
+                "image": "https://food-images.files.bbci.co.uk/food/recipes/boeuf_bourguignon_25475_16x9.jpg",
                 "ingredients": [
                     "6 oz bacon, diced",
                     "2 lbs beef chuck, cut into chunks",
@@ -304,6 +315,7 @@
             {
                 "recipe_id": 2,
                 "name": "Quiche Lorraine",
+                "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/11/09/17515-quiche-lorraine-i-3x4-1.jpg",
                 "ingredients": [
                     "1 pie crust, homemade or store-bought",
                     "6 oz bacon, diced",
@@ -320,6 +332,7 @@
             {
                 "recipe_id": 3,
                 "name": "Coq au Vin",
+                "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/8/29/1/french_coq_s4x3.jpg.rend.hgtvcom.616.462.suffix/1412354205141.jpeg",
                 "ingredients": [
                     "1 chicken, cut into pieces",
                     "200g bacon, diced",
@@ -344,12 +357,13 @@
         "experience": "30 years",
         "num_recipes": 100,
         "likes": 40000,
-        "image": "image_url",
+        "image": "https://images.pexels.com/photos/3338675/pexels-photo-3338675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "description": "Anne-Sophie Pic is a French chef who is the owner and head chef of the restaurant Maison Pic in Valence, France. She is the fourth female chef to earn three Michelin stars.",
         "recipes": [
             {
                 "recipe_id": 1,
                 "name": "Lamb Shanks",
+                "image": "https://img.delicious.com.au/bHJZetj8/del/2016/06/curried-lamb-shank-amaranth-and-chickpea-soup-32137-2.jpg",
                 "ingredients": [
                     "4 lamb shanks",
                     "Salt and pepper",
@@ -373,6 +387,7 @@
             {
                 "recipe_id": 2,
                 "name": "Crème Brûlée",
+                "image": "https://lechefswife.com/wp-content/uploads/2022/03/089A0942.jpg",
                 "ingredients": [
                     "2 cups heavy cream",
                     "1/2 cup granulated sugar",
@@ -387,6 +402,7 @@
             {
                 "recipe_id": 3,
                 "name": "Chocolate Soufflé",
+                "image": "https://img.taste.com.au/rzQh6Xgx/taste/2016/11/easy-molten-chocolate-souffle-58756-1.jpeg",
                 "ingredients": [
                     "4 oz dark chocolate, chopped",
                     "2 tbsp unsalted butter",
