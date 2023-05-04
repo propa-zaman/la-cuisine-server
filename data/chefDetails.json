@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "Jimmy Dane",
         "experience": "10 years",
         "num_recipes": 50,
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "Jacques Pépin",
         "experience": "15 years",
         "num_recipes": 150,
@@ -142,7 +142,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "Eric Ripert",
         "experience": "20 years",
         "num_recipes": 80,
@@ -210,7 +210,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Daniel Boulud",
         "experience": "35 years",
         "num_recipes": 120,
@@ -277,7 +277,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Julia Child",
         "experience": "50 years",
         "num_recipes": 200,
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "Anne-Sophie Pic",
         "experience": "30 years",
         "num_recipes": 100,

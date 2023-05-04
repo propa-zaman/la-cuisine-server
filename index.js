@@ -20,6 +20,18 @@ app.get('/chefDetails', (req, res) => {
     res.send(chefDetails);
   })
 
+
+  // category id wise data
+  app.get('/chefDetails/:id', (req, res) => {
+    const categoryId = req.params.id;
+    const category = chefDetails.find(item => item.id === categoryId);
+    if (!category) {
+      return res.status(404).send('Category not found');
+    }
+    res.send(category);
+  });
+  
+
 app.listen(port, () => {
   console.log(`cuisine api is running on the port ${port}`);
 });
